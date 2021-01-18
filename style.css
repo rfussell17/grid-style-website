@@ -102,7 +102,7 @@ img:last-child {
 
 }
 
-@media (min-width: 1100px) {
+@media (min-width: 1300px) {
 body {
   height: 100vh;
 }
