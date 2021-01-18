@@ -103,7 +103,7 @@ body {
 
   .grid {
     display: grid;
-    grid-template-columns: 70% 10% 20%;
+    grid-template-columns: 1fr 2fr 1fr;
     grid-template-areas: 
       "header header header" 
       "content content sidebar"
