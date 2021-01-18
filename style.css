@@ -91,6 +91,7 @@ img:last-child {
     flex-direction: row;
     flex-wrap: wrap;
     list-style: none;
+    width: 100%;
   }
 
 }
